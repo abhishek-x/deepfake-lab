@@ -1,9 +1,8 @@
 streamlit
-opencv-python
 opencv-python-headless
 numpy
 cmake
-dlib
+dlib-bin
 pillow
 tensorflow
 tensorflow_hub
