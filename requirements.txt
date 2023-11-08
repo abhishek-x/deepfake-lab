@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+numpy
+dlib
+tensorflow
+tensorflow_hub
